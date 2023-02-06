@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Goudy";
+  src: url("root_folder/css/Goudy Old Style Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Klinic";
+  src: url("root_folder/css/KlinicSlabBoldIt.otf") format("otf");
+}
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  h1 {
+    color:rgb(207, 28, 68);
+    font-family: "Goudy",bold;
+    font-size: 50px;
+    text-align: center;
+  }
+  h2 {
+    color:rgb(11, 148, 70);
+    font-family:"Goudy",Bold;
+    font-size: 20px;
+    text-align: center;
+  }
+  h3 {
+    color:rgb(0, 0, 0);
+    font-family:"Klinic",Bold;
+    font-size: 18px;
+    text-align: left;
+  }
+  p {
+    color: #543136;
+    font-family:"Klinic",italic;
+    font-size: 20px;
+    text-align: center;
+  }
+  a {
+    color:rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+
+  
